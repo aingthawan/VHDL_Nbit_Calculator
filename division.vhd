@@ -4,7 +4,7 @@
  
  -- if ((A < B) or (B = 0))  ERROR
  
- -- Output is 1000 (DEC)  due to display range of 000 - 999 
+ -- Output is 0000 (DEC)  due to display range of 000 - 999 
 
  -- =================================================
 
